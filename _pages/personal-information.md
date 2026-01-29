@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /personal-information/
 title: "Personal Information"
 author_profile: true
